@@ -14,8 +14,11 @@ Organizations working with multiple vendors must evaluate supplier risk to ensur
 Without proper analysis, it becomes difficult to:
 
 • Identify high-risk vendors
+
 • Monitor vendor reliability
+
 • Compare vendor risk levels
+
 • Prioritize vendor management actions
 
 This project builds an interactive Power BI dashboard to visualize vendor risk distribution and vendor rankings.
@@ -26,9 +29,13 @@ This project builds an interactive Power BI dashboard to visualize vendor risk d
 The dashboard focuses on the following metrics:
 
 • Total Vendors
+
 • High Risk Vendors
+
 • Medium Risk Vendors
+
 • Low Risk Vendors
+
 • Top Ranked Vendors
 
 
@@ -54,16 +61,23 @@ The Power BI dashboard contains the following visualizations:
 The analysis provides the following insights:
 
 • Identification of vendors with the highest risk levels
+
 • Clear distribution of vendors across risk categories
+
 • Ranking of vendors based on risk score
+
 • Ability to prioritize vendor monitoring and risk mitigation
 
 
 ## Skills Demonstrated
 
 • Data Cleaning and Preparation in Excel
+
 • Data Modeling in Power BI
+
 • Risk Analysis
+
 • Data Visualization
+
 • Dashboard Development
 
