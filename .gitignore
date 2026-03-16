@@ -1,32 +1,25 @@
 # System files
-
 .DS_Store
 Thumbs.db
 
 # Temporary files
-
 *.tmp
 *.log
 *.cache
 *.bak
 
 # Excel temporary files
-
 ~$*.xlsx
 
 # Power BI cache files
-
 *.pbix.lock
 
 # Python cache (if scripts added later)
-
 **pycache**/
 *.pyc
 
 # VS Code settings
-
 .vscode/
 
 # Environment files
-
 .env
