@@ -1,25 +1,30 @@
 # System files
+
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Temporary files
+
 *.tmp
 *.log
 *.cache
 *.bak
 
 # Excel temporary files
+
 ~$*.xlsx
+~$*.xls
 
-# Power BI cache files
+# Power BI lock/cache files
+
 *.pbix.lock
-
-# Python cache (if scripts added later)
-**pycache**/
-*.pyc
+*.pbit.lock
 
 # VS Code settings
+
 .vscode/
 
 # Environment files
+
 .env
